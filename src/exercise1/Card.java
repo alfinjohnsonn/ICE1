@@ -9,6 +9,7 @@ package exercise1;
  * add your name as a modifier.
  * @author dancye
  * @author Paul Bonenfant May 2020
+ * this is branch
  */
 public class Card {
 
