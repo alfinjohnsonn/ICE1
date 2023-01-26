@@ -80,6 +80,8 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     private static void printInfo() {
+        
+        System.out.println("I am done");
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
